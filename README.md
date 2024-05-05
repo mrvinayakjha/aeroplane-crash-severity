@@ -20,4 +20,5 @@ This article explores a case study based on data from airline accidents, highlig
 5. Support Vector Machines
 6. Gradient Boosting Decision Tree
 7. Conclusion
+
 Now lets go deeper by exploring ipynb file
